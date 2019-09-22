@@ -1,0 +1,3 @@
+# Ignore list for PCB layout tool svg2shenzen
+.svg2shenzhen-cache
+
