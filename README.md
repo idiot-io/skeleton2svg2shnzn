@@ -7,4 +7,4 @@ inkscape.org
 gerbv  
 svg2shenzen
 
-inkscape+kicad->gerbv
+(inkscape&&svg2shenzen)->kicad->gerbv->factory
